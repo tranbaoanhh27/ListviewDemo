@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ListviewDemo</string>
+    <string name="content_text">Content Text</string>
+    <string-array name="asean_countries">
+        <item>Vietnam</item>
+        <item>Thailand</item>
+        <item>Singapore</item>
+        <item>Malaysia</item>
+        <item>Philippines</item>
+        <item>Myanmar</item>
+        <item>Laos</item>
+        <item>Timor Leste</item>
+        <item>Brunei</item>
+        <item>Cambodia</item>
+        <item>Indonesia</item>
+    </string-array>
+</resources>
